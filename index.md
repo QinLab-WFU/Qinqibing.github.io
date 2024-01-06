@@ -2,7 +2,7 @@
 # 秦琦冰 (Qibing Qin</a>)  
 
 <p style="width:970px;">
-    <img src="/qin.jpg" align="right" width="180" hspace="5" vspace="5">
+    <img src="/qin.JPG" align="right" width="180" hspace="5" vspace="5">
 个人简介：<br>潍坊学院计算机工程学院副教授、校“杰青”计划支持人选、中国海洋大学访问学者、曲阜师范大学硕士生导师。博士毕业于中国海洋大学计算机应用技术专业，导师为魏志强教授和钱沄涛教授。主要从事计算机视觉、多媒体内容分析与检索以及深度学习等领域的研究，包括基于深度哈希学习的大规模图像检索、跨模态检索以及深度度量学习等。以第一作者或者通讯作者在IEEE TMM、IEEE TCSVT、ACM TOMM、ICASSP等国际高水平期刊和会议上发表学术论文10余篇。主持国家自然科学基金青年基金、山东省自然科学基金青年基金、校“杰青”专项计划等项目，参与多项国家重点研发计划、国家自然科学基金面上项目和青年基金。
 
 招生信息：<br>实验室目前有4名专职教师，10余名研究生以及若干本科生科研助理，依托于曲阜师范大学每年可招生3-4名硕士研究生，实验室和谐融洽，整体学术氛围浓厚，通过三年培养，同学均能在IEEE/ACM会刊、SCI一区Top期刊发表学术论文2~4篇，且综合能力显著提升，可继续深造读博或就职于知名企事业单位。
@@ -77,7 +77,7 @@
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
-* Wei Chen#, Chao Huang, <u>Yanwei Yu*</u>, Yongguo Jiang, Junyu DOng. Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2023 (**CCF B**, Online). <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>
+* Qibing Qin, Yadong Huo, Lei Huang, Jiangyan Dai, Huihui Zhang, Wenfeng Zhang. Deep Neighborhood-preserving Hashing with Quadratic Spherical Mutual Information for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2024. （中科院一区Top期刊，CCF-B）[Code](https://github.com/QinLab-WFU/DNpH)
 * Binyu Tan, Junrui Shi, Bin Wang, <u>Yanwei Yu</u>, Feng Hong, Tianrui Li. DeepNWP4Wind: A Wind Forcasting Correction Solution in View of Multi-Criteria Evaluation. Proceddings of the 18th International Conference on Intelligent System and Knowledge Engineering (ISKE 2023), November 17--19, 2023, Fuzhou, China. (**Best Student Paper**)  <span style="color:red;">**New!**</span>
 * Hanwen Liu, Yibing Zhang, Ximeng Wang, Bin Wang, <u>Yanwei Yu</u>. ST-MoE: Spatio-temporal Mixture of Experts for Multivariate Time Series Forecasting.  Proceddings of the 18th International Conference on Intelligent System and Knowledge Engineering (ISKE 2023), November 17--19, 2023, Fuzhou, China. <span style="color:red;">**New!**</span>  
 * Zhanyu Liu, Guanjie Zheng, <u>Yanwei Yu</u>. Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**), October 21--25, 2023, Birmingham, UK. (**CCF B**, 接收率=354/1472=24%) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span>  
