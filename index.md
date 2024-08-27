@@ -52,6 +52,9 @@
 [2020-2022] 国家重点研发计划项目 “海洋环境预报模式业务化运行评估与专项数据产品共享服务平台构建”， 2019YFC1408400 ，1069万， 参与人  
 [2017-2020] 国家自然科学基金面上项目 “面向大规模人物图像检索的语义特征提取研究”，61672475， 62万，参与人  
 
+## 专利授权
+国家发明专利：一种智能动力电池热失控预警系统，王涛，魏建国，<strong>秦琦冰</strong>，高永存。2024105945025，2024.07.26。
+
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
 * Qibing Qin, Yadong Huo, Lei Huang, Jiangyan Dai, Huihui Zhang, Wenfeng Zhang. Deep Neighborhood-preserving Hashing with Quadratic Spherical Mutual Information for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2024. （中科院一区Top期刊，CCF-B）[[Code]](https://github.com/QinLab-WFU/DNpH)
